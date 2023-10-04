@@ -1,0 +1,23 @@
+
+{
+    "post": [
+       {
+		   "id": 1, 
+		   "title": "json-server",
+		   "author": "typicode"
+       },
+		 {
+		   "id": 2, 
+		   "title": "html",
+		   "author": "typicode"
+       }
+    ],
+	 "commnets": [
+		{
+			"id": 1,
+			"body": "some commnet",
+			"postId": 1
+		}
+	 ],
+	 "postfile": {"name": "typicode"}
+}
