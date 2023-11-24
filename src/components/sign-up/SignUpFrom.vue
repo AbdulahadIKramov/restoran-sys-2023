@@ -69,6 +69,7 @@ export default {
       pass: "",
       email: "",
       v$: useValidate(),
+      a: null
     };
   },
 
